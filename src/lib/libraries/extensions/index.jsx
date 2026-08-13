@@ -1488,7 +1488,7 @@ if (IsLocal || IsLiveTests) {
             tags: ['penguinmod', 'hardware', '3d'],
             customInsetColor: '#B200FF',
             insetIconURL: jg3dVrInsetExtensionIcon,
-            description: 'Do not use for real projects. Not recommended, unstable, and will be rewritten/remade entirely at a later date. In development. May break compatibility. Allow players t[...]
+            description: 'Do not use for real projects. Not recommended, unstable, and will be rewritten/remade entirely at a later date. In development. May break compatibility. Allow players to use VR.',
             featured: true,
             extensionWarningOnImport: true
         },
