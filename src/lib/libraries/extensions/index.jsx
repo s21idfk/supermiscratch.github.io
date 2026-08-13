@@ -1212,7 +1212,7 @@ const menuItems = [
         tags: ['supermiscratch'],
         description: 'Run Brainfuck programs and get their output.',
         featured: true
-    },
+    }
 ];
 
 /*
