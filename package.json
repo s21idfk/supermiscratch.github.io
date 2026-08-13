@@ -5,7 +5,7 @@
     "main": "./dist/scratch-gui.js",
     "scripts": {
         "buildall": "npm run build && npm run deploy",
-        "build": "webpack --colors --bail"
+        "build": "webpack --colors --bail",
         "clean": "rimraf ./build && mkdirp build && rimraf ./dist && mkdirp dist",
         "deploy": "npm uni gh-pages && npm i gh-pages -g && gh-pages -d src",
         "prune": "./prune-gh-pages.sh",
